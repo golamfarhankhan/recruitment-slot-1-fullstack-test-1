@@ -40,7 +40,7 @@ I hope you will find this task challenging and educative at the same time.
 # Timelimit
 You should ideally complete the task in less than 24 work hours. In no circumstances it should take you more than 48 work hours.
 
-Your individualized deadline will depend on the date you apply on. Usually it's within 7 days from your application.
+The work needs to be submitted by the 25th of October, 2016.
 
 # Notes
 * Make sure to commit around every 5 to 15 minutes while you work. It is extremely important. Make sure your commits messages make sense.
